@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9425edb-4191-46e8-8161-9a7304c1882f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VIUdiHjdkgPcW0l091GjzUI0pE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/Imp.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/Imp.g4::/gen-listener" value="false" />
+    <property name="$PROJECT_DIR$/src/Imp.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/Imp.g4::/output-dir" value="$PROJECT_DIR$/src" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="imp" />
+      <option name="PROGRAM_PARAMETERS" value="Test/Well-Typed/if-then" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9425edb-4191-46e8-8161-9a7304c1882f" name="Default Changelist" comment="" />
+      <created>1576940191118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576940191118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="288" y="58" key="#Project_Structure" timestamp="1576940445029">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="288" y="58" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1576940445029" />
+    <state x="282" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577100368740">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="282" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1577100368740" />
+    <state x="607" y="134" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577097131848">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="607" y="134" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1299.741@67.27.1299.741" timestamp="1577097131848" />
+    <state x="551" y="193" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576940772414">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="551" y="193" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1576940772414" />
+    <state x="304" y="104" width="814" height="585" key="FileChooserDialogImpl" timestamp="1577100574362">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="304" y="104" width="814" height="585" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577100574362" />
+    <state width="1253" height="186" key="GridCell.Tab.0.bottom" timestamp="1577100379805">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="186" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577100379805" />
+    <state width="1253" height="186" key="GridCell.Tab.0.center" timestamp="1577100379804">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="186" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1577100379804" />
+    <state width="1253" height="186" key="GridCell.Tab.0.left" timestamp="1577100379804">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="186" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1577100379804" />
+    <state width="1253" height="186" key="GridCell.Tab.0.right" timestamp="1577100379804">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="186" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1577100379804" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1577098916443">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577098916443" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1577098916442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1577098916442" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1577098916441">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1577098916441" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1577098916442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1577098916442" />
+    <state x="180" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576940655957">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="180" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576940655957" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1577091450682">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1577091450682" />
+    <state x="380" y="42" width="670" height="676" key="search.everywhere.popup" timestamp="1577095271092">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="42" width="670" height="676" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1577095271092" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/imp$Main.ic" NAME="Main Coverage Results" MODIFIED="1576940671070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
