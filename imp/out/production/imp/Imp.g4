@@ -23,7 +23,7 @@ exp : NAT                                 # nat
     | exp op=(LT | LEQ | GEQ | GT) exp    # cmpExp
     | exp op=(EQQ | NEQ) exp              # eqExp
     | exp AND exp                         # logicAnd
-    | exp OR exp                         # logicOr
+    | exp OR exp                          # logicOr
     | ID                                  # id
     ;
 
